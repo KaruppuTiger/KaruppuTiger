@@ -1,3 +1,3 @@
-# Learning to become a cloud engineneer 
+# Learning to become a cloud engineer
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaruppuTiger&theme=elegant)
