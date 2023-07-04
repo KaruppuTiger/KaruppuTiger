@@ -1,7 +1,7 @@
-# Freelance Data Analyst / Data Engineer
-
 <div align="center">
-
+  
+# Freelance Data Analyst / Data Engineer
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaruppuTiger&theme=elegant)
 
 </div>
